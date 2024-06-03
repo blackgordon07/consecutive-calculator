@@ -1,0 +1,14 @@
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.AssemblyInfoInputs.cache
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.AssemblyInfo.cs
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.csproj.CoreCompileInputs.cache
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\bin\Debug\net8.0\Consecutive calculator.exe
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\bin\Debug\net8.0\Consecutive calculator.deps.json
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\bin\Debug\net8.0\Consecutive calculator.runtimeconfig.json
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\bin\Debug\net8.0\Consecutive calculator.dll
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\bin\Debug\net8.0\Consecutive calculator.pdb
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.dll
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\refint\Consecutive calculator.dll
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.pdb
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\Consecutive calculator.genruntimeconfig.cache
+C:\Users\GordonAdanyi\source\repos\C# projects\Consecutive calculator\Consecutive calculator\obj\Debug\net8.0\ref\Consecutive calculator.dll
