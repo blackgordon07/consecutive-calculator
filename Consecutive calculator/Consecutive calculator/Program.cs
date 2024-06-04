@@ -66,7 +66,7 @@ public class Calculator
             }
             else
             {
-                Console.WriteLine("Invalid inpuT");
+                Console.WriteLine("Invalid input");
             }
         }
     }
